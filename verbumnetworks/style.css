@@ -1,0 +1,17 @@
+#banner { width: 80%; float: right; }
+.clearfloat{ clear: both; }
+#logo { width: 20%;  float: left;}
+footer{ text-align: center; }
+main {width: 80%; float: right;}
+nav{width: 20%; float: left;}
+#mainnav ul{list-style: none;}
+#mainnav ul li {float: left; padding-right: 1em;}
+#mainnav ul li a {text-decoration: none; background-color:red;}
+#mainnav ul li a:hover { background-color: white; }
+#notice { width: 40%; height: 350px; box-shadow: 1px 1px 10px; float: left;margin-right: 1em; }
+#notice h3 {text-align: center;}
+#noticetext p { text-align: center; }
+#staff{ margin:auto; width: 80%; }
+#bio  { text-align: center; }
+#staff img {padding-left: 2em;}
+#notice div:hover{z-index:500px; position: relative;}
